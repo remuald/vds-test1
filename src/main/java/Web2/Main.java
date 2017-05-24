@@ -27,6 +27,7 @@ public class Main {
         System.out.println();
 
 
+        int i=0;
         final Car forester = new Car ("blue", 210L, 45000L, 230L, 1500L, "crossover", "2.5 turbo");
         final Car amg = new Car("black", 350L, 20000L, 520L, 1600L, "sedan", "5.5");
         final Car p911 = new Car ("yellow", 300L, 180000L, 390L, 1400L, "coupe", "3.6");
